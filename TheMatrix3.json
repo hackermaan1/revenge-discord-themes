@@ -1,0 +1,107 @@
+{
+    "name": "The Matrix (Material 3 Edition)",
+    "description": "Material Design 3.",
+    "version": "1.1.0",
+    "authors": [
+        {
+            "name": "hackermoon1",
+            "id": "1345031606082998345"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": ["#E8F5E9"],
+        "HEADER_SECONDARY": ["#C8E6C9"],
+        "TEXT_NORMAL": ["#FFFFFF"],
+        "TEXT_MUTED": ["#A5D6A7"],
+        "INTERACTIVE_NORMAL": ["#69F0AE"],
+        "INTERACTIVE_HOVER": ["#1DE9B6"],
+        "INTERACTIVE_ACTIVE": ["#00E676"],
+        "INTERACTIVE_MUTED": ["#388E3C"],
+        "BACKGROUND_PRIMARY": ["#0A0F0A"],
+        "BACKGROUND_SECONDARY": ["#121812"],
+        "BACKGROUND_SECONDARY_ALT": ["#1A231A"],
+        "BACKGROUND_TERTIARY": ["#212921"],
+        "BACKGROUND_ACCENT": ["#1B5E20"],
+        "BACKGROUND_MODIFIER_HOVER": ["rgba(105, 240, 174, 0.08)"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["rgba(105, 240, 174, 0.12)"],
+        "BACKGROUND_MODIFIER_SELECTED": ["rgba(105, 240, 174, 0.16)"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#69F0AE"],
+        "BACKGROUND_MESSAGE_HOVER": ["rgba(105, 240, 174, 0.04)"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#121812"],
+        "CARD_PRIMARY_BG": ["#1A231A"],
+        "CARD_SECONDARY_BG": ["#212921"],
+        "BG_MODAL": ["#1A231A"]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#E8F5E9",
+        "PRIMARY_130": "#C8E6C9",
+        "PRIMARY_160": "#A5D6A7",
+        "PRIMARY_200": "#81C784",
+        "PRIMARY_230": "#69F0AE",
+        "PRIMARY_260": "#1DE9B6",
+        "PRIMARY_300": "#00E676",
+        "PRIMARY_330": "#00C853",
+        "PRIMARY_360": "#388E3C",
+        "PRIMARY_400": "#2E7D32",
+        "PRIMARY_430": "#1B5E20",
+        "PRIMARY_460": "#0A0F0A",
+        "PRIMARY_500": "#121812",
+        "PRIMARY_530": "#1A231A",
+        "PRIMARY_560": "#212921",
+        "PRIMARY_600": "#2A332A",
+        
+        "NEUTRAL_100": "#FFFFFF",
+        "NEUTRAL_200": "#F5F5F5",
+        "NEUTRAL_300": "#E0E0E0",
+        "NEUTRAL_400": "#BDBDBD",
+        "NEUTRAL_500": "#9E9E9E",
+        "NEUTRAL_600": "#757575",
+        "NEUTRAL_700": "#616161",
+        "NEUTRAL_800": "#424242",
+        "NEUTRAL_900": "#212121",
+        
+        "BRAND_230": "#69F0AE",
+        "BRAND_260": "#1DE9B6",
+        "BRAND_300": "#00E676",
+        "BRAND_500": "#00C853",
+        "BRAND_560": "#388E3C",
+        
+        "STATUS_GREEN": "#69F0AE",
+        "STATUS_YELLOW": "#FFEB3B",
+        "STATUS_RED": "#F44336",
+        "STATUS_GRAY": "#9E9E9E",
+        "STATUS_PURPLE": "#AA00FF",
+        
+        "ELEVATION_1": "#121812",
+        "ELEVATION_2": "#1A231A",
+        "ELEVATION_3": "#212921",
+        "ELEVATION_4": "#2A332A",
+        "ELEVATION_5": "#333C33"
+    },
+    "plus": {
+        "version": "0",
+        "customOverlays": true,
+        "icons": {
+            "ic_radio_circle_checked": "#69F0AE",
+            "ic_radio_circle_checked__overlay": "#1B5E20",
+            "ic_radio_square_checked_24px": "#69F0AE",
+            "ic_selection_checked_24px": "#69F0AE",
+            "StatusOnline": "#69F0AE",
+            "StatusIdle": "#FFEB3B",
+            "StatusDND": "#F44336",
+            "StatusOffline": "#616161",
+            "StatusStreaming": "#AA00FF",
+            "ic_channel_text": "#A5D6A7",
+            "ic_member": "#69F0AE",
+            "ic_settings": "#C8E6C9"
+        }
+    },
+    "background": {
+        "blur": 3,
+        "url": "https://i.pinimg.com/originals/1c/9a/e7/1c9ae78964082e6c52643a29481c4e7f.jpg",
+        "alpha": 0.9,
+        "overlayColor": "rgba(10, 15, 10, 0.7)",
+        "overlayBlendMode": "multiply"
+    },
+    "spec": 2
+}
